@@ -1,6 +1,6 @@
 ### Profile 👋
 현재 MLOps에 관심이 많고 스스로 학습 중인 학생입니다.
-### Self Studying
-- 모두를 위한 딥러닝(강의) /완료
-- 모두의 딥러닝(책) /완료
-- Kaggle을 통한 코드 분석 /진행중
+### Interested in
+- MLOps, ML, DL(NLP, CV)
+- Python
+- Django, AWS
