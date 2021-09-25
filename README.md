@@ -5,5 +5,3 @@
 - MLOps, ML, DL(NLP, CV)
 - Python
 - Web Service (Django, AWS EC2)
-### Favorite
-- 🍔 🏃‍♂️ 🏋️‍♂️
