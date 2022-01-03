@@ -4,4 +4,4 @@
 ### Interested in
 - MLOps, ML, DL(NLP, CV)
 - Python
-- Web Service (Django, AWS EC2)
+- Web Service (Django, AWS, SQL)
