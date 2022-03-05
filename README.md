@@ -6,3 +6,5 @@
 - Web Service (Spring(Boot), AWS, MySQL)
 - AI (ML, NLP)
 - MLops, DevOps
+### Pastime
+- 🏋️‍♀⚽🎧
