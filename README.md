@@ -1,4 +1,4 @@
-### Profile 👋
+### Profile
 현재 Backend Developer를 꿈꾸고 있는 학생입니다! 🙋‍♂️  
 
 ### Interested in
