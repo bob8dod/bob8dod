@@ -3,6 +3,6 @@
 ### Interested in
 - Web Service [Java] (Spring(Boot), MySQL, AWS)
 - AI [Python] (ML, NLP)
-- DevOps, MLOps
+- DevOps
 ### Pastime
 - 🏋️‍♀⚽🎧
