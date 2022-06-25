@@ -5,4 +5,4 @@
 - AI [Python] (ML, NLP)
 - DevOps
 ### Pastime
-- 🏋️‍♀⚽🎧
+- 🏋️⚽🎧
