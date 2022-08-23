@@ -3,8 +3,8 @@
 [상세 프로필](https://www.notion.so/My-Portfolio-079193a071c74a6c8deda4d3ab98caf1)
 
 ### Interested in
-- Web Service [Java] (Spring(Boot), MySQL, AWS)
-- AI [Python] (ML, NLP)
+- Backend : [Java] (Spring(Boot), MySQL, AWS)
+- AI : [Python] (ML, NLP)
 
 ### Pastime
-- 🏋️⚽🎧
+- 🏋️⚽🎧🚞
