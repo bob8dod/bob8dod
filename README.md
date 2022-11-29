@@ -7,4 +7,4 @@
 - AI[Python] (ML, NLP)
 
 ### Pastime
-- 🏋️⚽🎧🚞🍺
+- 🏋️⚽🎧🚞
